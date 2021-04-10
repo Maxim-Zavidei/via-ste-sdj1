@@ -3,7 +3,8 @@ public class Main {
 
         HotelRoom[] testRooms = new HotelRoom[] {
             new HotelRoom(1, HotelRoom.SINGLE),
-            new HotelRoom(2, HotelRoom.DOUBLE), new HotelRoom(3, HotelRoom.FAMILY),
+            new HotelRoom(2, HotelRoom.DOUBLE),
+            new HotelRoom(3, HotelRoom.FAMILY),
             new HotelRoom(4, HotelRoom.SINGLE)
         };
 
