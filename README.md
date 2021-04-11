@@ -16,6 +16,8 @@ After course completion the student has the following abilities:
 * Construct simple event-based GUI applications.
 * Construct Java source code documentation.
 * Interpret UML class diagrams and construct corresponding Java code.
+* Exemplify and discuss basic object-oriented concepts, including encapsulation, relationships, inheritance and polymorphism.
+* Implement small scale systems from UML class diagrams and construct related GUIs.
 
 # References
-> The complete course description is documented thoroughly and can be found on the subsequent [page](https://en.via.dk/tmh-courses/software-development-with-uml-and-java-2?education=ict).
+> The complete course description is documented thoroughly and can be found on the subsequent [page](https://en.via.dk/tmh-courses/software-development-with-uml-and-java?education=ict).
